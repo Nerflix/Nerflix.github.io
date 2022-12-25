@@ -107,9 +107,9 @@ function Footer() {
                 Lorem 196 Andrew Road, Suite 200, <br /> New York, NY 10007
               </span>
               <br />
-              <span>Tell: +255 754 661 423</span>
+              <span>Tell: +40 754 661 423</span>
               <br />
-              <span>Email: info@zpunet.com</span>
+              <span>Email: netflixo@gmail.com</span>
             </p>
           </div>
         </div>
